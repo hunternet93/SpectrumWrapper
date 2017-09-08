@@ -1,0 +1,23 @@
+{
+    "name": "pw.isrv.spectrumwrapper",
+    "version": "1.0.0",
+    "displayName": "Spectrum Wrapper",
+    "cordova": {
+        "platforms": [
+            "android",
+            "browser"
+        ],
+        "plugins": {
+            "cordova-plugin-whitelist": {},
+            "de.appplant.cordova.plugin.local-notification": {},
+            "cordova-plugin-inappbrowser": {}
+        }
+    },
+    "dependencies": {
+        "cordova-android": "^6.2.3",
+        "cordova-browser": "~4.1.0",
+        "cordova-plugin-inappbrowser": "^1.7.1",
+        "cordova-plugin-whitelist": "1",
+        "de.appplant.cordova.plugin.local-notification": "https://github.com/katzer/cordova-plugin-local-notifications"
+    }
+}
