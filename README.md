@@ -1,6 +1,4 @@
-# Spectrum Wrapper
-
-![Spectrum Wrapper logo](res/logo-titled.png)
+<img src="res/logo-titled.png" width="250px">
 
 Spectrum Wrapper is a mobile app wrapper for Cloud Imperium Games' Spectrum communications platform.
 
